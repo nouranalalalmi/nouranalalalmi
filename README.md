@@ -5,6 +5,6 @@
 I'm all about conjuring up solutions with the magic of code. Always on the hunt for cool learning adventures where I can push my limits and go above and beyond to make an impact! Each new challenge is a puzzle waiting to be solved, and I can't wait to crack it!
 
 👨‍💻 Technologies currently obsessed with:
-- Frontend: React.js, Next.js, Typescript, React Query/TanStack, Tailwind, Zustand, Ant Design
+- Frontend: React.js, Next.js, Typescript, React Query/TanStack, Tailwind, Zustand, React Native
 - Backend: Node.js, Laravel
-- Other: Jest, Cypress, Storybook
+- Other: Jest, Cypress, Storybook, Ant Design
